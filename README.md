@@ -67,6 +67,8 @@ The repository includes:
 
 ## 🛠 Tools & Skills Used
 
+* **Tableau**
+* **Excel**
 * **Data Cleaning & Transformation**
 * **Exploratory Data Analysis (EDA)**
 * **Hospitality KPIs**: Occupancy, ADR, Room Nights, Revenue
