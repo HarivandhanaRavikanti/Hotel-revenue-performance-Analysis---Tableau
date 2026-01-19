@@ -17,6 +17,10 @@ comprehensive understanding of both demand patterns and revenue trends across pr
   * Hotel - wise contribution to Revenue
   * Day-wise comparison of room nights and revenue performance
   * Filter Actions for user interaction
+  * Navigation Buttons to switch among the Dashboards
+
+* **Home Page Design**
+  ![Home Page](https://github.com/HarivandhanaRavikanti/Hotel-revenue-performance-Analysis---Tableau/blob/main/Hotel%20Revenue%20Analysis%20Home%20Page.png)
 
 * **Business overview**
   ![Business Overview](https://github.com/HarivandhanaRavikanti/Hotel-revenue-performance-Analysis---Tableau/blob/main/Hotel%20Revenue%20Analysis%20Business%20Overview.png)
