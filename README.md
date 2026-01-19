@@ -13,26 +13,35 @@ comprehensive understanding of both demand patterns and revenue trends across pr
 * **Room Nights & Revenue Performance**
 
   * Monthly trends across all four properties
-  * Segment - wise contribution to total room nights and revenue
-  * Hotel - wise contribution to Occ%, Revenue
-  * Date-wise comparison of room nights and revenue performance
+  * Segment - wise contribution to total revenue
+  * Hotel - wise contribution to Revenue
+  * Day-wise comparison of room nights and revenue performance
+  * Filter Actions for user interaction
 
+* **Business overview**
+  ![Business Overview](https://github.com/HarivandhanaRavikanti/Hotel-revenue-performance-Analysis---Tableau/blob/main/Hotel%20Revenue%20Analysis%20Business%20Overview.png)
+  
 * **Market Segment Analysis**
 
   * Segment-wise performance (Airline, Corporate, Leisure, Wholesale, Group, etc.)
   * Comparison of **Actual vs Budget vs Last Year**
   * Identification of high-performing and underperforming segments
 
+* 📊 **Market segment Performance**
+![Market segment Overview](https://github.com/HarivandhanaRavikanti/Hotel-revenue-performance-Analysis---Tableau/blob/main/Hotel%20Revenue%20Analysis%20Market%20segment%20Overview.png)
+
 * **Day-of-Week & Seasonality Insights**
 
   * Day-of-week trends in occupancy and revenue
   * Monthly seasonality patterns impacting demand and pricing
 
+* **Performance overview**
+  ![Performance Overview](https://github.com/HarivandhanaRavikanti/Hotel-revenue-performance-Analysis---Tableau/blob/main/Hotel%20Revenue%20Analysis%20Performance%20Overiew.png)
+
 * **Pricing & Efficiency Metrics**
 
   * Revenue realization vs forecasted and budgeted values
   * Identification of pricing opportunities and demand shifts
-
 
 ## 📈 Visualizations & Deliverables
 
@@ -44,6 +53,7 @@ The repository includes:
   * Property-wise performance comparison
   * Market Segment-wise analysis
   * Day-of-Week trends
+
 * **Segment-level comparisons** of:
 
   * Actuals vs Budget
